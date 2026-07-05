@@ -8,6 +8,8 @@ bun install
 
 To run:
 
+create a `.env` file and make a `BOT_TOKEN` environment variable, set to your bots token, then run:
+
 ```bash
 bun run index.ts
 ```
